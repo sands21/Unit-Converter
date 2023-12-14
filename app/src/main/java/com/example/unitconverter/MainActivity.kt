@@ -69,9 +69,9 @@ fun UnitConverter(){
 
 
     val customTextStyle = TextStyle(
-        fontFamily = FontFamily.Default, // Replace with your desired font family
-        fontSize = 16.sp, // Replace with your desired font size
-        color = Color.Red // Replace with your desired text color
+        fontFamily = FontFamily.Default,
+        fontSize = 16.sp,
+        color = Color.Red
     )
 
     fun convertUnits(){
